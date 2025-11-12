@@ -7,6 +7,11 @@
 
 ## Problem Statement
 - To create a dashboard that summarizes financial metrics to help stakeholders make informed decisions.
+- The goal of this Power BI Dashboard Project is to analyze the financial
+performance of a company using the provided Microsoft Sample Data.
+- To create a visually appealing dashboard that provides an overview of the
+company's financial metrics enabling stakeholders to make informed business
+decisions.
 ## DATA CLEANING:
 
    - Open Dataset in Excel and Make a Copy of Dataset for security purpose.
