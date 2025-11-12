@@ -6,7 +6,24 @@
 
 ## Problem Statement
 - To create a dashboard that summarizes financial metrics to help stakeholders make informed decisions.
+## DATA CLEANING:
 
+   - Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+
+   - Remove Duplicates.
+
+   - Change the formatting of necessary columns.
+
+   - Spell Check.
+
+   - Change Case -date formate ,change currency formate
+   - 
+
+   - Trim the unwanted spaces.
+
+   - Remove null values if its not going to affect the result.
+
+   - Find & Replace error by zero
 <hr>
 
 ## Sections in the Report
