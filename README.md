@@ -1,6 +1,7 @@
 ## Finance Report Dashboard
 - Hello Everyone,
-- I made this Finance Dashboard in Power BI with the Finance Excel Data provided by Microsoft on their Website.
+- I made this Finance Dashboard in Power BI with the Finance Excel Data provided by unified Company
+- .
 
 <hr>
 
